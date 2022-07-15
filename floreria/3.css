@@ -1,0 +1,22 @@
+#body{
+    margin: 0;
+    padding: 0;
+
+}
+#header{
+    background-color: #F8AD9D;
+    
+}
+#header a{
+    color: #000000;
+    font-family: "Roboto", Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#logo{
+    max-height: 80px;
+    max-width: 80px;
+}
+
+#footer{
+    background-color: #F8AD9D;
+}
